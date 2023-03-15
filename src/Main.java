@@ -303,7 +303,7 @@ public class Main {
         myNumbers[1][2] = 9;
         System.out.println(myNumbers[1][2]);
 
-        Main.main2();
+        main2();
 
     }
 
