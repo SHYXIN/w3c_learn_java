@@ -1,3 +1,5 @@
+package java_tutorial;
+
 public class Methods {
     static void myMethod() {
         System.out.println("I just got executed!");
